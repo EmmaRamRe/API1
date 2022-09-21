@@ -19,7 +19,7 @@
                 transition: background-color ease-in-out .5s;
             }
             footer {
-                background-color: aqua;
+                background-color: white;
                 position: absolute;
                 bottom: 0;
                 width: 100%!important;
